@@ -4,3 +4,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail424&show_icons=true&locale=en&layout=compact" alt="ismail424" /></p>
 
+## **Sponsors:**
+[Alve Svarén](https://github.com/alvesvaren) 1 x $1
