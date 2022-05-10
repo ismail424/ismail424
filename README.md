@@ -29,7 +29,7 @@
 <br>
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.c99.nl/widget/theme-3/347650888787165184.png">
+    <a href="https://discord.com/users/347650888787165184">
         <img title="LittleBoys discord" alt="LittleBoys's discord" src="https://discord.c99.nl/widget/theme-3/347650888787165184.png"/>
     </a>
 </p>
