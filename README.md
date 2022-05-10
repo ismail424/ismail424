@@ -4,7 +4,7 @@
 
 
 ```sh-session
-  Full Stack Developer / SOURCE CODE 
+  Full Stack Developer /  Programming student / SOURCE CODE
 ```
   
 </p>
