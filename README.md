@@ -16,6 +16,7 @@
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail424&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
