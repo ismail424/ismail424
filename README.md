@@ -19,4 +19,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ismail424)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,nodejs,linux,bash,java,cpp,c)](https://skillicons.dev)
