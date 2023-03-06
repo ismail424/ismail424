@@ -19,4 +19,6 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,nodejs,linux,bash,java,cpp,c)](https://skillicons.dev)
+### Languages i use
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,nodejs,react,linux,bash,java,cpp,cs,c)](https://ismail.sacic.dev)
