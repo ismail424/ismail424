@@ -19,5 +19,4 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail424&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ismail424)]
